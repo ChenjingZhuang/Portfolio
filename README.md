@@ -17,19 +17,10 @@ I am a passionate IT student with a strong interest in software development. I e
 
 Here are some of the projects I have worked on:
 
-### Project 1: [Project Name]
+### Project 1: [Star symbol Christmas tree]
 
-- Description: A brief description of the project.
-- Technologies Used: List the technologies or languages used (e.g., C#, Python, etc.).
-- GitHub Repository: Link to the GitHub repository if it's public.
-
-### Project 2: [Project Name]
-
-- Description: A brief description of the project.
-- Technologies Used: List the technologies or languages used (e.g., C#, Python, etc.).
-- GitHub Repository: Link to the GitHub repository if it's public.
-
-(Add more projects as needed)
+- Description: Make a Christmas tree with symbolic stars.
+- Technologies Used: C#
 
 ## Skills
 
