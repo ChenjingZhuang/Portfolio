@@ -1,4 +1,4 @@
-# My Name's Chenjing Zhuang
+# Chenjing Zhuang
 
 Welcome to my GitHub portfolio! I am a student at CAMK University in Finland, and I have been learning and working on projects in C# and Python. This repository serves as a showcase of my coding skills and the projects I have worked on during my IT studies.
 
